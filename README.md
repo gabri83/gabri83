@@ -13,7 +13,7 @@
 <p align="center">
 <img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri83&include_all_commits=true&count_private=true"/>
 </p>
-
+<!--
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/gabri83" target="_blank">
@@ -30,7 +30,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabri83/gabri83/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
+
 **gabri83/gabri83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
