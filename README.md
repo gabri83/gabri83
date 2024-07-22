@@ -10,7 +10,7 @@
 <img width="66%" src="https://github-readme-stats.vercel.app/api?username=gabri83&show_icons=true&theme=transparent"/>
 </p>
 <p align="center">
-<img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri83&include_all_commits=true&count_private=true"/>
+<img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri83&layout=pie)](https://github.com/anuraghazra/github-readme-stats"/>
 </p>
 <!--
 ## Connect with me  
