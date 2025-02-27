@@ -26,7 +26,7 @@
   </div>
   
   <div>
-    <h3>Backend & DevOps</h3>
+    <h4>Backend & DevOps</h4>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -37,7 +37,7 @@
   </div>
   
   <div>
-    <h3>Development Tools & Version Control</h3>
+    <h4>Development Tools & Version Control</h4>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="30" alt="github logo" />
@@ -50,7 +50,7 @@
   </div>
   
   <div>
-    <h3>Operating Systems</h3>
+    <h4>Operating Systems</h4>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="30" alt="apple logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo" />
