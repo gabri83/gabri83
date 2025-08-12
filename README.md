@@ -69,7 +69,7 @@
 
 <div align="center">
 <!--   <img src="https://profile-counter.glitch.me/gabri83/count.svg?"  /> -->
-  ![](https://komarev.com/ghpvc/?username=gabri83&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=gabri83&style=for-the-badge" alt="Profile views counter" />
 </div>
 
 ###
