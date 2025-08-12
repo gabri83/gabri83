@@ -68,7 +68,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/gabri83/count.svg?"  />
+<!--   <img src="https://profile-counter.glitch.me/gabri83/count.svg?"  /> -->
+  ![](https://komarev.com/ghpvc/?username=gabri83)
 </div>
 
 ###
