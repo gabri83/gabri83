@@ -2,9 +2,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri83"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=gabri83" alt="badges"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabri83"  />
 
 </div>
 
@@ -66,6 +66,10 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gabri83/gabri83/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gabri83" alt="badges"  />
 
 ###
 
