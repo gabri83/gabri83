@@ -2,10 +2,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabri83"  />
 </div>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabri83"  />
   <img src="https://gists-readme.yizack.com/api?user=gabri83"  />
 </div>
